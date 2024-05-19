@@ -28,8 +28,8 @@ A simple Snake game created using Pygame.
 
 ## Project Structure
 - `main.py` – The main Python script containing the game logic.
-- `sound1.wav` – Sound file for eating food.
-- `sound2.wav` – Sound file for game over.
+- `eat.wav` – Sound file for eating food.
+- `game_over.wav` – Sound file for game over.
 
 ## Dependencies
 - Python 3.x
